@@ -72,6 +72,15 @@ const Navbar = ({ darkMode, toggleDarkMode }) => {
                         ? 'text-[#F4F1EC]'
                         : 'text-[#F4F1EC]/70 group-hover:text-[#F4F1EC]'
                     }`} />
+
+                <span className={`text-[10px] font-medium transition-colors 
+                duration-300 ${
+                   isActive
+                   ? 'text-white'
+                   : 'text-white/60 group-hover:text-white'
+                }`}>
+                   {item.name}
+                </span>
       </motion.a>
     )
   })}
