@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
 import {
-    FaCertificate,
     FaCode,
     FaEnvelope,
     FaHome,
@@ -17,7 +16,6 @@ const Navbar = ({ darkMode, toggleDarkMode }) => {
         { name: 'Home', link: '#home', icon: FaHome},
         { name: 'About', link: '#about', icon: FaUser},
         { name: 'Skills', link: '#skills', icon: FaCode},
-        { name: 'Certificates', link: '#certificates', icon: FaCertificate},
         { name: 'Projects', link: '#projects', icon: FaProjectDiagram},
         { name: 'Contact', link: '#contact', icon: FaEnvelope},
     ]
