@@ -54,9 +54,7 @@ const Hero = () => {
             </h1>
 
             <h2 className='text-xl sm:text-2xl font-mono mb-4 dark:text-[#F4F1EC]/80 text-[#484A36]/80'>
-              <span className='text-[#484A36]/50 dark:text-[#F4F1EC]/50'>&lt;</span>
               Frontend Developer | Software Developer
-              <span className='text-[#484A36]/50 dark:text-[#F4F1EC]/50'>&gt;</span>
             </h2>
 
 

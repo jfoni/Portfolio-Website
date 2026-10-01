@@ -43,14 +43,14 @@ const About = () => {
           </div>
 
           <h2 className='text-3xl sm:text-4xl lg:text-5xl font-bold mb-6 dark:text-[#F4F1EC] text-[#484A36] leading-tight'>
-            From Curiosity to Code <span className='text-[#484A36] dark:text-[#F4F1EC] block'></span>
+            Learning by Building <span className='text-[#484A36] dark:text-[#F4F1EC] block'></span>
           </h2>
 
           <p className='text-base lg:text-lg mb-8 leading-relaxed dark:text-gray-300 text-gray-700 max-w-xl'>
-            I learn by building, experimenting, and solving problems.
-             I enjoy turning ideas into real projects,
-              exploring how things work, 
-              and growing with every project I create.
+            I like learning by building and trying things out.
+            I enjoy turning ideas into projects,
+            figuring out how things work,
+            and improving with every project I make.
             </p>
 
           <div className='flex gap-4 mb-8'>
